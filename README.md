@@ -1,0 +1,1 @@
+# projeto-dio-azureCopilot-e-OpenAI
